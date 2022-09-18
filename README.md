@@ -9,10 +9,10 @@ Our goal in this project is to create a To Do List web page using JavaScript.
 
 ## Objective
 
-When I click "add" button on to-do app, I can add new to-do task.
-When I click "checked/done" button on to-do app, I can mark the selected to-do task. 
-When I click "delete" button on to-do app, I can delete comleted a to-do task.
-When I click "remove all" button on to-do app, I can delete all to-do task.
+- When I click "add" button on to-do app, I can add new to-do task.
+- When I click "checked/done" button on to-do app, I can mark the selected to-do task. 
+- When I click "delete" button on to-do app, I can delete comleted a to-do task.
+- When I click "remove all" button on to-do app, I can delete all to-do task.
 
 ### Following topics are to be covered;
 
