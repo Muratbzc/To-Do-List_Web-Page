@@ -15,11 +15,26 @@
 
 <body>
     <main>
-        <div class="to-do-list container mt-5 mb-5 d-flex pt-3 justify-content-center">
-            <label for="input" class="me-2">To Do List:</label>
-            <input type="text" name="input" id="input" class="input w-50 p-2" placeholder="Add an item">
-            <button class="btn btn-warning add-btn me-2 ms-3">Add</button>
-            <button class="btn btn-secondary remove-btn">Remove All</button>
+        <div class="to-do-list container mt-5 mb-5 border rounded-3 bg-info bg-opacity-50 p-3">
+            <div class=" row justify-content-center align-items-center gy-2">
+                <div class="col-md-2">
+                    <label class="me-2">To Do List:</label>
+                </div>
+                <div class="col-md-7">
+                    <input type="text" class="input p-2 w-100" placeholder="Add an item">
+                </div>
+
+
+
+
+                <div class="col-md-3 d-flex">
+                    <button class="btn btn-warning add-btn me-2">Add</button>
+                    <button class="btn btn-secondary remove-btn">Remove All</button>
+                </div>
+
+            </div>
+
+
         </div>
 
         <div class="container bg-light w-75">
